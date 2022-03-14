@@ -1,0 +1,17 @@
+canvas
+{
+    box-shadow: 5px 10px 15px grey;
+    border-radius: 5px;
+    border: 5px solid white;
+}
+
+.heading
+{
+    width: 100%;
+    box-shadow: 5px 10px 15px grey;
+}
+
+.song_button
+{
+    margin-top: 50px;
+}
